@@ -3,7 +3,7 @@ import json
 
 archivo = input("Ingrese el nombre del archivo que desea escanear: ")
 
-API_KEY = "82a0f957c81ad440d5899ade2b0e3eee3432128c89f70dc71d415adba3c64319"
+API_KEY = "CAMBIAR_API_ACA"
 url = 'https://www.virustotal.com/vtapi/v2/file/scan'
 params = {'apikey': API_KEY}
 
